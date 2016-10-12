@@ -1,0 +1,11 @@
+{
+  "name": "challenge-framework",
+  "version": "0.0.1",
+  "description": "A Javascript code testing api framework",
+  "repository": "",
+  "dependencies": {
+    "ace-builds": "~1.2.5",
+    "acorn": "~3.3.0",
+    "codemirror": "~5.18.2"
+  }
+}
